@@ -20,3 +20,15 @@ This project is a web scraper for the [Books to Scrape](https://books.toscrape.c
    ```bash
    git clone https://github.com/username/books-scraper.git
    cd books-scraper
+
+   Install dependencies:
+
+
+Copy code
+pip install -r requirements.txt
+Run the scraper:
+
+bash
+Copy code
+python scrape_books.py
+The output will be saved to data/books_data.csv.
